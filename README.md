@@ -4,7 +4,7 @@ Build a dbt project analyzing global airport data on Snowflake.
 
 ---
 
-## Getting Started (check connection)
+## Getting Started (check connection on branch)
 
 1. Copy this repository by clicking the "Use Template" button
 2. Explore the dataset: [DATASETS.md](DATASETS.md)
